@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class neg_pos {
+public class plusminus {
 	public static void main(String[] args) 
     {
         int n;
