@@ -1,6 +1,6 @@
 
 		import java.util.Scanner;
-public class Binarynos 
+public class Sumofbinary
 {
 	public static void main(String[] args)
 	   {
