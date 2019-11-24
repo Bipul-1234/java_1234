@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Matrix_add {
+public class Addofmatrix {
 	 public static void main(String args[])
 	   {
 	      int m, n, c, d;
