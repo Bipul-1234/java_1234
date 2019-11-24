@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class add_digits {
+public class Sumofdigits {
 	public static void main(String args[])
     {
         int m, n, sum = 0;
