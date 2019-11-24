@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class mins_to_yrs {
+public class convmins {
 	public static void main(String[] Strings) {
 
 
