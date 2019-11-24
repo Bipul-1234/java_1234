@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class inchestometers {
+public class inchtometer {
 	public static void main(String[] Strings) {
 
         Scanner i = new Scanner(System.in);
